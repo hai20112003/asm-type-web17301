@@ -1,0 +1,4 @@
+- hiển thị thêm sửa xóa sản phẩm
+- hiển thị thêm sửa xóa danh mục
+- tìm kiềm
+- đăng nhập đăng ký, check quyền
